@@ -12,7 +12,7 @@ services:
       - CUSTOM_USER=${USERNAME}
       - PASSWORD=${PASSWORD}
       - LANGUAGE=en_US.UTF-8
-      - CHROME_CLI=https://app.getgrass.io/register/?referralCode=VGvo4xGBCctrgf7 https://app.gradient.network/signup?code=ZPFXFB https://app.nodepay.ai/register?ref=B4r8euTTWB2YqLL https://dataquest.nvg8.io//signup?ref=445875 https://app.blockmesh.xyz/register?invite_code=caab6ade-3c79-46c1-882b-2d1639c502e1 https://node.securitylabs.xyz/?from=extension&type=signin&referralCode=cm3m2my0sd38nta1bnrz87unl https://bless.network/dashboard?ref=YKR4BU https://chromewebstore.google.com/detail/teneo-community-node/emcclcoaglgcpoognfiggmhnhgabppkm https://chromewebstore.google.com/detail/dawn-validator-chrome-ext/fpdkjdnhkakefebpekbdhillbhonfjjp
+      - CHROME_CLI=https://app.meshchain.ai/?ref=23R5GPDDTG6J https://app.aigaea.net/register?ref=gaUSatRDu2rsMX https://pipecdn.app/signup?ref=ZmFxLnRhb0 https://app.getgrass.io/register/?referralCode=VGvo4xGBCctrgf7 https://app.gradient.network/signup?code=ZPFXFB https://app.nodepay.ai/register?ref=B4r8euTTWB2YqLL https://dataquest.nvg8.io//signup?ref=445875 https://app.blockmesh.xyz/register?invite_code=caab6ade-3c79-46c1-882b-2d1639c502e1 https://node.securitylabs.xyz/?from=extension&type=signin&referralCode=cm3m2my0sd38nta1bnrz87unl https://bless.network/dashboard?ref=YKR4BU https://chromewebstore.google.com/detail/teneo-community-node/emcclcoaglgcpoognfiggmhnhgabppkm https://chromewebstore.google.com/detail/dawn-validator-chrome-ext/fpdkjdnhkakefebpekbdhillbhonfjjp
     volumes:
       - ${HOME}/chromium/config:/config
     ports:
